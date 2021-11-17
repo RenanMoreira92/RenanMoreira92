@@ -8,8 +8,8 @@
 - 👨🏾‍🦲 Pronomes Ele/Dele . . 
 <div align = "side">
   <a href="https://github.com/RenanMoreira92">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RenanMoreira92&show_icons=true&theme=github_cobalt&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMoreira92&layout=compact&langs_count=7&theme=github_cobalt"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenanMoreira92&show_icons=true&theme=github_cobalt&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanMoreira92&layout=compact&langs_count=7&theme=github_cobalt"/>
 </div>
 
   <h3><p align="left">• Languages and Tools 🛠</p>
