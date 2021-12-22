@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estudante de Java . .
+- 🌱 Desenvolvedor Java FullStack Jr . . .
 - 👨🏾‍🦲 Pronomes Ele/Dele . . 
 <div align = "side">
   <a href="https://github.com/RenanMoreira92">
