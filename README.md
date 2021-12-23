@@ -1,4 +1,4 @@
-### Olá eu sou o Renan Moreira  👋🏾
+### Olá eu sou o Renan Moreira
 
 
 
