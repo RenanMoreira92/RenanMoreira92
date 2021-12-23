@@ -4,8 +4,8 @@
 
 
 
-- 🌱 Desenvolvedor Java FullStack Jr . . .
-- 👨🏾‍🦲 Pronomes Ele/Dele . . 
+- 🖥️ Desenvolvedor Java FullStack Jr . . .
+ 
 <div align = "side">
   <a href="https://github.com/RenanMoreira92">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenanMoreira92&show_icons=true&theme=github_cobalt&include_all_commits=true&count_private=true"/>
